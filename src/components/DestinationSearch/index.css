@@ -40,7 +40,7 @@
   width: 20px;
 }
 
-.destinations-list{
+.destinations-list {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
