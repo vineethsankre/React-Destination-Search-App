@@ -62,8 +62,6 @@ The app must have the following functionalities
 <summary>Implementation Files</summary>
 <br/>
 
-Use these files to complete the implementation:
-
 </details>
 
 ### Important Note
