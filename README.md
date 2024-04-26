@@ -120,6 +120,4 @@ Use these files to complete the implementation:
 </details>
 
 > ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directoryhose are the files being imported into the tests.
 
