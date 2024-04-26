@@ -60,7 +60,6 @@ The app must have the following functionalities
 
 <details>
 <summary>Implementation Files</summary>
-<br/>
 
 </details>
 
