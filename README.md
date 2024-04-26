@@ -64,7 +64,6 @@ The app must have the following functionalities
 
 Use these files to complete the implementation:
 
-- `src/components/DestinationSearch/index.js`
 </details>
 
 ### Important Note
