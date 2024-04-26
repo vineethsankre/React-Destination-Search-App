@@ -121,6 +121,5 @@ Use these files to complete the implementation:
 
 > ### _Things to Keep in Mind_
 >
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
+> - All components you implement should go in the `src/components` directoryhose are the files being imported into the tests.
 
