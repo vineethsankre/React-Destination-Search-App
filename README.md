@@ -101,11 +101,6 @@ Use these files to complete the implementation:
 
 <details>
 <summary>Colors</summary>
-
-<br/>
-
-
-
 </details>
 
 
