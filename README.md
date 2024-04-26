@@ -111,7 +111,4 @@ Use these files to complete the implementation:
 
 </details>
 
-<details>
-
-</details>
 
