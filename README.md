@@ -66,7 +66,6 @@ Use these files to complete the implementation:
 
 - `src/components/DestinationSearch/index.js`
 - `src/components/DestinationSearch/index.css`
-- `src/components/DestinationItem/index.js
 </details>
 
 ### Important Note
