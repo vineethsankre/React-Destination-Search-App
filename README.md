@@ -56,13 +56,6 @@ The app must have the following functionalities
 </div>
 <br/>
 
-</details>
-
-<details>
-<summary>Implementation Files</summary>
-
-</details>
-
 ### Important Note
 
 <details>
